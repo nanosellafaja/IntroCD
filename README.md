@@ -4,9 +4,9 @@ Repositorio para el desarrollo de tareas de la asignatura Introducción a la Cie
 
 Grupo: 14 Integrantes:
 
-    Francisco Galletto
-    Fernando Sellanes
-    Lucas Sellanes
+    Francisco Galletto Vega
+    Fernando Sellanes Fajardo
+    Lucas Sellanes Fajardo
 
 ## Descripción del repositorio:
 

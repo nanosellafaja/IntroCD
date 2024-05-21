@@ -16,7 +16,7 @@ Grupo: 14 Integrantes:
 
 ./Tarea_1/Tarea1_propuesta.pdf Propuesta sobre la tarea 1 en formato pdf.
 
-./Tarea_1/tarea1_grupo14.pdf Informe sobre la tarea 1 en formato pdf.
+./Tarea_1/Tarea_1_IntroCD.pdf Informe sobre la tarea 1 en formato pdf.
 
 ./Tarea_1/shakespeare_grupo14.ipynb Código en formato jupyter notebook desarrollado para el cargado de la base de datos, el procesamiento y visualización de esta.
 
